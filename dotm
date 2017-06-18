@@ -1,6 +1,12 @@
-	<a href="dotm.html" type="text" rel="next">Daughter of the Moon<a>
-		<br/>
+	<!DOCTYPEhtml>
+	<html>
+	<head>
+		<h1>Daughter of the Moon</h1>
+		<a href="dotm.html" type="text" rel="next">Daughter of the Moon<a>
+	</head>
 
+		<br/>
+	<body>
 	<span id="dotm"
 		<p>
 			with planets on strings, she slips
@@ -38,3 +44,5 @@
 			the world is beautiful today.
 		</p>
 	</span>
+	</body>
+</html>
