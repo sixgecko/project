@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"
+	<title>poetry</title>
+	<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><strong>home</strong></li>
+			<li>about</li>
+			<li>poetry</li>
+		</ul>
+	</nav>
+
+	<nav class="poetry"
+		<ul>
+			<li><a href="index.html">home</a></li>
+			<li><a href="dotm.html">daughter of the moon</a></li>
+			<li><a href="beetle.html">this is not a poem about a beetle</a></li>
+			<li><a href="limbo.html">limbo</a></li>
+			<li><a href="tcs.html">the chocolate station wagon</a></li>
+			<li><a href="winter-sunrise.html">winter sunrise</a></li>
+			<li><a href="tattoo-artist.html">the tattoo artist</a></li>
+			<li><a href="faithless.html">faithless</a></li>
+			<li><a href="haven-lost.html">haven lost</a></li>
+			<li><a href="herding-cats.html">herding cats</a></li>
+			<li><a href="winters-end.html">winter's end</a></li>
+			<li><a href="moose.html">the moose's funeral</a></li>
+		<br/>
+
+</body>
+</html>
